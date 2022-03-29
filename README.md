@@ -1,4 +1,4 @@
-This game was made as a university project from 2nd year of studying (subject OOP).
+This game was made as a university project from 2nd year of studying <b>(subject OOP)</b>.
 Variables, classes and methods are named in Serbian.
 For writing this code I used a combination of my knowledge, Youtube tutorials and StackOverflow.
 Game is not done, I plan to work on this code more, but this was required for my grade.
