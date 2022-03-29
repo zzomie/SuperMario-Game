@@ -1,4 +1,5 @@
 This game was made as a university project from 2nd year of studying (subject OOP).<br>
+Besides Java, I used Gimp for drawing stripes.<br>
 Variables, classes and methods are named in Serbian.<br>
 For writing this code I used a combination of my knowledge, Youtube tutorials and StackOverflow.<br>
 Game is not done, I plan to work on this code more, but this was required for my grade.<br>
